@@ -1,5 +1,4 @@
-jpa01-jonahso 
-# STARTER-jpa01
+# jpa01-jonahso 
 
 Deployed at: https://jpa01-jonahso.dokku-11.cs.ucsb.edu
 
